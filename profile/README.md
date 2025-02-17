@@ -22,7 +22,7 @@ Welcome to **Stackup Solution**, a software development services and IT consulta
 
 ## 📬 Get in Touch  
 💻 Website: [Stackup Solutions](https://stackupsolutions.com/)  
-✉ Email: [Stackup Solutions](info@stackupsolutions.com)
+✉ Email: info@stackupsolutions.com
 📢 LinkedIn: [Stackup Solutions on LinkedIn](https://www.linkedin.com/company/stackup-solutions/)
 
 > **Join us in shaping the future of technology!** 🚀  
