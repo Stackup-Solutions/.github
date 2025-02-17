@@ -6,7 +6,7 @@ At **Stackup Solutions**, we don’t just write code—we engineer **scalable di
 
 We’ve helped **100+ businesses** turn ideas into reality by focusing on scalability, automation, and seamless execution—leveraging the latest in AI, ML, and cloud-based architectures.
 
-## 🌟 What We Do  
+## 🌟 What We Bring to the Table
 - **💡 SaaS & Custom Software Development** – Scalable platforms built on Node.js, Python, Laravel, and GoLang
 - **🤖 AI & Machine Learning** – AI-powered chatbots, GPT-based AI agents, automation, and analytics
 - **📱 Web & Mobile App Development** – High-performance apps using React.js, Next.js, Vue.js, Nuxt.js, React Native, and Flutter
